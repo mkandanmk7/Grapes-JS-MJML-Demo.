@@ -26,6 +26,7 @@ const GrapesJSMain = () => {
           </mj-body>
         </mjml>
       </div>
+      <div>Element</div>
     </div>
   );
 };

@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <GrapesJSMain />
+      hello world
     </>
   );
 }
